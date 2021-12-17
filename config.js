@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "ThaoMy",
     introTitle: 'Thảo My à',
-    introDesc: `Bầu trời xanh, làn mây trắng. Anh yêu nắng hay yêu em?`,
+    introDesc: `Bầu trời xanh, làn mây trắng. Chị yêu nắng hay yêu em?`,
     btnIntro: '^^Yêu em chứ^^',
     title: 'Chị có yêu em hông 🥰',
     desc: 'Chị chọn đi ',
